@@ -1,0 +1,6 @@
+Revision history for Perl extension Math::Gamma.
+
+0.01  Sun Sep 29 11:16:17 2013
+	- original version; created by h2xs 1.23 with options
+		-A -n Math::Gamma
+

@@ -1,0 +1,8 @@
+Changes
+Gamma.xs
+Makefile.PL
+MANIFEST
+ppport.h
+README
+t/Math-Gamma.t
+lib/Math/Gamma.pm
